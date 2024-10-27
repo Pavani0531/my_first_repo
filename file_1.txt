@@ -3,3 +3,7 @@ example to add and commit changes to git
 commands - 
 git add file_1.text
 git commit -m "msg (added first file)"
+
+to add two or multiple files at time -
+
+git add file_1.txt file_2.txt   etc enter / git add .   enter
